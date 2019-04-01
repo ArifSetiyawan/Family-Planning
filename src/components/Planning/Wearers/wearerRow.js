@@ -32,7 +32,7 @@ export default class wearerRow extends Component {
                     confirmBtnText="Yes, delete it!"
 	                confirmBtnBsStyle="danger"
 	                cancelBtnBsStyle="default"
-	                title="Are you sure delete this Pemakai Provinsi?"
+	                title="Are you sure delete this Pemakai Kontrasepsi?"
                     onConfirm={this.onDeletewearer}
                     onCancel={() => this.cancelDel()}
                 >
